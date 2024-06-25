@@ -1,5 +1,5 @@
 ## Eae 👋
-
+![](https://media1.tenor.com/m/TEfDaGJoAgAAAAAd/fish-fosh.gif)
 <!--
 **Bruno-bot1/Bruno-bot1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
